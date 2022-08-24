@@ -38,7 +38,7 @@ public class _6_050_Methods_MethodsWithArrays3GetDuplicates {
     {
         int counter=0;
         boolean counterBoolean=false;
-
+               
         for(int i=0;i<r.length;i++)
         {
             for(int j=0;j<r.length;j++)
